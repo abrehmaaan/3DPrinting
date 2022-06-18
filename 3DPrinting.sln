@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DPrinting", "3DPrinting\3DPrinting.vcxproj", "{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Debug|x64.ActiveCfg = Debug|x64
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Debug|x64.Build.0 = Debug|x64
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Debug|x86.Build.0 = Debug|Win32
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Release|x64.ActiveCfg = Release|x64
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Release|x64.Build.0 = Release|x64
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Release|x86.ActiveCfg = Release|Win32
+		{48E1EC55-8859-43A4-9C42-9B6D5857F5CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9308674E-5701-43BC-A2C2-B4D1375CB7CF}
+	EndGlobalSection
+EndGlobal
